@@ -340,8 +340,9 @@ public class GoodsController {
 		/*
 		Map<String, Object> map = new HashMap<String, Object>();
 		map.put("deliveryCost", request.getParameter("deliveryCost"));
-		map.put("deliveryCost", request.getParameter("deliveryCost"));
-		map.put("deliveryCost", request.getParameter("deliveryCost"));
+		map.put("deliveryCost1", request.getParameter("deliveryCost1"));
+		map.put("deliveryCost2", request.getParameter("deliveryCost2"));
+		...
 		
 		
 		String fileDir = "/view/goods/upload";
